@@ -1,0 +1,39 @@
+* , body{
+    background-color: black;
+      margin: 0;
+      box-sizing: border-box;
+      font-family: "Fira sans", sans-serif;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  .text{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+     text-align: center; 
+     margin: 20px; 
+    color: white;
+  }
+  
+  header {
+      padding: 2rem 1rem;
+      padding-top: 40px;
+      max-width: 800px;
+      width: 100%;
+      margin: 0 auto;
+  }
+  
+  .btn{
+    margin-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    /* position: relative;
+    left: 40%; */
+  }
+
+  #para{
+    color: white;
+    text-align: center;
+  }
